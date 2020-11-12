@@ -1,0 +1,25 @@
+{
+  "name": "purl",
+  "version": "1.0.0",
+  "description": "Pretty print the contents of a resource at a URL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/humphd/purl.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/humphd/purl/issues"
+  },
+  "homepage": "https://github.com/humphd/purl#readme",
+  "dependencies": {
+    "got": "^11.8.0",
+    "prettier": "^2.1.2",
+    "yargs": "^16.1.0"
+  }
+}
